@@ -28,6 +28,6 @@ public class AlertPopUps {
 		
 		driver.quit();
 	}
-//chages
+//changes
 	//done
 }
