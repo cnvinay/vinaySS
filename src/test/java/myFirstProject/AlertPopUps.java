@@ -28,9 +28,6 @@ public class AlertPopUps {
 		
 		driver.quit();
 	}
-<<<<<<< HEAD
-// changes done
-=======
-//changes
->>>>>>> d48d4852c4f7a330babde2285327edfcaa4d4069
+
+
 }
