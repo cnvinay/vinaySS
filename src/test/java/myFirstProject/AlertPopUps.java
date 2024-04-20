@@ -25,21 +25,6 @@ public class AlertPopUps {
 
 		String text = driver.findElement(By.xpath("//p[@class='pt-2 text-center']")).getText();
 		System.out.println(text);
-		/*or
-		if(text.equalsIgnoreCase("You selected yes"))
-		{
-			System.out.println(text);
-		}
-		else
-		{
-			System.out.println(text);
-		}*/
-	
-//		//----------
-//		ele.click();
-//		a.dismiss();
-//		String text1 = driver.findElement(By.xpath("//p[@class='pt-2 text-center']")).getText();
-//		System.out.println(text1);
 		
 		driver.quit();
 	}
