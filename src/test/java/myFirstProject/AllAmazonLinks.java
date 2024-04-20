@@ -24,7 +24,7 @@ public class AllAmazonLinks {
 			// String text = allLinks.get(i).getAttribute("href");
 			System.out.println(text);
 		}
-		
+		//chasnges2
 		driver.quit();	
 		  
 	}	
