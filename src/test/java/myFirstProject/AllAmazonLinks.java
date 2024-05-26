@@ -26,6 +26,6 @@ public class AllAmazonLinks {
 		}
 		//chasnges2
 		driver.quit();	
-		  
+		  //changes2
 	}	
 }
